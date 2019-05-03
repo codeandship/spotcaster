@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/iwittkau/spotcaster/http"
-	"github.com/iwittkau/spotcaster/storage"
+	"github.com/codeandship/spotcaster/http"
+	"github.com/codeandship/spotcaster/storage"
 	"github.com/peterbourgon/ff"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"

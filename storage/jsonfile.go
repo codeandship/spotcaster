@@ -5,7 +5,7 @@ import (
 	"os"
 	"io/ioutil"
 	"encoding/json"
-	"github.com/iwittkau/spotcaster"
+	"github.com/codeandship/spotcaster"
 )
 
 func WriteToken(t spotcaster.Token, name string) error {

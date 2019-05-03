@@ -11,7 +11,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/iwittkau/spotcaster"
+	"github.com/codeandship/spotcaster"
 )
 
 const (

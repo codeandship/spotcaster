@@ -1,4 +1,4 @@
-module github.com/iwittkau/spotcaster
+module github.com/codeandship/spotcaster
 
 go 1.12
 
